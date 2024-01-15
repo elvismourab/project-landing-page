@@ -1,0 +1,16 @@
+.header {
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
+
+a {
+    text-decoration: none;
+    padding: 10px;
+}
