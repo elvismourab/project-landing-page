@@ -27,3 +27,16 @@ a {
     font-size: 18px;
     color: #e5e7eb;
 }
+
+.section-1 {
+    display: flex;
+    align-items: center;
+}
+
+.section-1-box {
+    border: 2px solid blue;
+}
+
+.img-placeholder {
+    border: 2px solid green;
+}
