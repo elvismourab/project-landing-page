@@ -44,6 +44,7 @@ ul {
 .section-1-box {
     border: 2px solid blue;
     flex: 50%;
+    margin: 0;
 }
 
 .img-placeholder {
@@ -56,4 +57,13 @@ h1 {
     font-size: 48px;
     font-weight: 800;
     color: #f9faf8;
+    margin: 0;
+}
+
+button {
+    color: white;
+    background-color: #3882f6;
+    font-weight: bold;
+    padding: 8px 22px;
+    border-radius: 12px;
 }
