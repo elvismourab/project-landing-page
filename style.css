@@ -48,4 +48,5 @@ a {
 .img-placeholder {
     border: 2px solid green;
     flex: 50%;
+    text-align: center;
 }
