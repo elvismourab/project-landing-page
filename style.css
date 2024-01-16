@@ -1,3 +1,8 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
 .header {
     display:flex;
     justify-content: space-around;
@@ -31,12 +36,16 @@ a {
 .section-1 {
     display: flex;
     align-items: center;
+    margin: auto;
+    padding: 100px;
 }
 
 .section-1-box {
     border: 2px solid blue;
+    flex: 50%;
 }
 
 .img-placeholder {
     border: 2px solid green;
+    flex: 50%;
 }
