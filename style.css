@@ -71,3 +71,10 @@ button {
     padding: 8px 22px;
     border-radius: 12px;
 }
+
+.img-box {
+    border: 4px solid #3882f6;
+    height: 100px;
+    width: 100px;
+    border-radius: 12px;
+}
