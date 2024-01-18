@@ -101,7 +101,20 @@ button {
     display: flex;
     flex-direction: column;
     background-color: #e5e7eb;
+    margin-top: 80px;
+    padding: 80px 260px;
+    align-items: flex-end;
+}
+
+.section-3-quote {
     font-size: 36px;
     font-style: italic;
     color: #1f2937;
+    margin-bottom: 0;
+}
+
+/* Thor, God of Thunder */
+.section-3-author {
+    font-weight: bold;
+    font-size: 25px;
 }
