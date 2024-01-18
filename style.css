@@ -70,6 +70,8 @@ button {
     font-weight: bold;
     padding: 8px 22px;
     border-radius: 12px;
+    border: 2px solid #fff;
+    font-size: 18px;
 }
 
 .img-box {
@@ -117,4 +119,25 @@ button {
 .section-3-author {
     font-weight: bold;
     font-size: 25px;
+}
+
+.section-4 {
+    display: flex;
+    background-color: #3882f6;
+    color: #f9faf8;
+    font-size: 24px;
+    padding: 20px 100px;
+    margin: 100px;
+    align-items: center;
+    border-radius: 12px;
+}
+
+.section-4-box {
+    flex: 80%;
+}
+
+.section-4-button {
+    display: flex;
+    flex: 20%;
+    justify-content: center;
 }
