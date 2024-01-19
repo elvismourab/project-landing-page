@@ -32,11 +32,15 @@ ul {
     margin: 0;
 }
 
-.text {
+.text,
+.header-links {
     text-decoration: none;
-    padding: 10px;   
     font-size: 18px;
     color: #e5e7eb;
+}
+
+.header-links {
+    padding: 10px;
 }
 
 .section-1 {
