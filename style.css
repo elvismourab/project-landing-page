@@ -1,7 +1,6 @@
-/* body {
-    display: flex;
-    flex-direction: column;
-} */
+body {
+    background-color: #1f2937;
+}
 
 .header,
 .footer {
@@ -27,6 +26,13 @@ ul {
     display: flex;
     flex-direction: row;
     padding-left: auto;
+}
+
+.hero-main-text {
+    font-size: 48px;
+    font-weight: 800;
+    /* color: #f9faf8; */
+    margin: 0;
 }
 
 .text {
