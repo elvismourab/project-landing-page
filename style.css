@@ -12,6 +12,8 @@
     background-color: #1f2937;
     margin: -10px;
     padding: 10px;
+
+    border: 2px solid yellow;
 }
 
 .logo {
@@ -24,6 +26,7 @@ ul {
     list-style-type: none;
     display: flex;
     flex-direction: row;
+    padding-left: auto;
 }
 
 .text {
@@ -46,6 +49,11 @@ ul {
     border: 2px solid blue;
     width: 600px;
     height: 300px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
 }
 
 .img-placeholder {
