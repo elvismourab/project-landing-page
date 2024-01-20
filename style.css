@@ -1,7 +1,3 @@
-body {
-    background-color: #1f2937;
-}
-
 .header,
 .footer {
     display:flex;
@@ -144,17 +140,8 @@ button {
     color: #f9faf8;
     font-size: 24px;
     padding: 20px 100px;
-    margin: 100px;
+    margin: 100px 300px;
     align-items: center;
     border-radius: 12px;
-}
-
-.section-4-box {
-    flex: 80%;
-}
-
-.section-4-button {
-    display: flex;
-    flex: 20%;
-    justify-content: center;
+    justify-content: space-around;
 }
